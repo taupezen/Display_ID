@@ -1,7 +1,9 @@
 // ==UserScript==
 // @name        ULiege Display ID
+// @author      Taupezen
 // @namespace   taupezen
 // @version     1
+// @downloadURL https://github.com/taupezen/Display_ID/raw/master/display_id.user.js
 // @grant       none
 // @match       http://www.uliege.be/*
 // @match       https://www.uliege.be/*
